@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "daabcddb",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.3,
+        "screen_time_hours": 9.7,
+        "sleep_hours": 5.3,
+        "fitness_steps": 2774,
+        "tasks_completed": 2,
+        "cognitive_score": 35
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.6,
+        "screen_time_hours": 7.3,
+        "sleep_hours": 6.8,
+        "fitness_steps": 5272,
+        "tasks_completed": 5,
+        "cognitive_score": 55
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.7,
+        "screen_time_hours": 5.3,
+        "sleep_hours": 7.4,
+        "fitness_steps": 7565,
+        "tasks_completed": 8,
+        "cognitive_score": 81
+      }
+    ]
+  },
+  {
+    "id": "9a822732",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.7,
+        "screen_time_hours": 11.3,
+        "sleep_hours": 4.3,
+        "fitness_steps": 1986,
+        "tasks_completed": 1,
+        "cognitive_score": 35
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 1.9,
+        "screen_time_hours": 9.0,
+        "sleep_hours": 5.9,
+        "fitness_steps": 3995,
+        "tasks_completed": 4,
+        "cognitive_score": 71
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 3.8,
+        "screen_time_hours": 7.7,
+        "sleep_hours": 7.2,
+        "fitness_steps": 6357,
+        "tasks_completed": 7,
+        "cognitive_score": 87
+      }
+    ]
+  },
+  {
+    "id": "6fe9c6ab",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.5,
+        "screen_time_hours": 7.6,
+        "sleep_hours": 5.0,
+        "fitness_steps": 2011,
+        "tasks_completed": 2,
+        "cognitive_score": 40
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.2,
+        "screen_time_hours": 4.9,
+        "sleep_hours": 6.2,
+        "fitness_steps": 4206,
+        "tasks_completed": 5,
+        "cognitive_score": 62
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.6,
+        "screen_time_hours": 3.7,
+        "sleep_hours": 6.8,
+        "fitness_steps": 6819,
+        "tasks_completed": 8,
+        "cognitive_score": 90
+      }
+    ]
+  },
+  {
+    "id": "e0b81f46",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 2.0,
+        "screen_time_hours": 8.3,
+        "sleep_hours": 4.4,
+        "fitness_steps": 1511,
+        "tasks_completed": 3,
+        "cognitive_score": 38
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.9,
+        "screen_time_hours": 5.7,
+        "sleep_hours": 5.8,
+        "fitness_steps": 3717,
+        "tasks_completed": 6,
+        "cognitive_score": 57
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 6.3,
+        "screen_time_hours": 4.5,
+        "sleep_hours": 7.0,
+        "fitness_steps": 7625,
+        "tasks_completed": 9,
+        "cognitive_score": 80
+      }
+    ]
+  },
+  {
+    "id": "3b315f1c",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.7,
+        "screen_time_hours": 11.0,
+        "sleep_hours": 5.2,
+        "fitness_steps": 3276,
+        "tasks_completed": 2,
+        "cognitive_score": 38
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.1,
+        "screen_time_hours": 9.3,
+        "sleep_hours": 7.0,
+        "fitness_steps": 5967,
+        "tasks_completed": 4,
+        "cognitive_score": 69
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.7,
+        "screen_time_hours": 7.6,
+        "sleep_hours": 8.0,
+        "fitness_steps": 9010,
+        "tasks_completed": 6,
+        "cognitive_score": 93
+      }
+    ]
+  },
+  {
+    "id": "9a9539f4",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.9,
+        "screen_time_hours": 8.4,
+        "sleep_hours": 4.7,
+        "fitness_steps": 1959,
+        "tasks_completed": 3,
+        "cognitive_score": 37
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.0,
+        "screen_time_hours": 6.4,
+        "sleep_hours": 6.2,
+        "fitness_steps": 4785,
+        "tasks_completed": 5,
+        "cognitive_score": 61
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.1,
+        "screen_time_hours": 4.5,
+        "sleep_hours": 7.4,
+        "fitness_steps": 8690,
+        "tasks_completed": 8,
+        "cognitive_score": 90
+      }
+    ]
+  },
+  {
+    "id": "9c801e90",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.8,
+        "screen_time_hours": 9.1,
+        "sleep_hours": 4.5,
+        "fitness_steps": 2872,
+        "tasks_completed": 3,
+        "cognitive_score": 48
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.6,
+        "screen_time_hours": 7.6,
+        "sleep_hours": 6.1,
+        "fitness_steps": 5482,
+        "tasks_completed": 5,
+        "cognitive_score": 68
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.5,
+        "screen_time_hours": 5.7,
+        "sleep_hours": 6.7,
+        "fitness_steps": 8063,
+        "tasks_completed": 9,
+        "cognitive_score": 89
+      }
+    ]
+  },
+  {
+    "id": "2aa630c4",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 2.0,
+        "screen_time_hours": 8.3,
+        "sleep_hours": 4.7,
+        "fitness_steps": 2487,
+        "tasks_completed": 3,
+        "cognitive_score": 37
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 4.0,
+        "screen_time_hours": 6.5,
+        "sleep_hours": 5.8,
+        "fitness_steps": 4784,
+        "tasks_completed": 6,
+        "cognitive_score": 64
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.8,
+        "screen_time_hours": 5.4,
+        "sleep_hours": 6.7,
+        "fitness_steps": 8490,
+        "tasks_completed": 8,
+        "cognitive_score": 85
+      }
+    ]
+  },
+  {
+    "id": "637d1673",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.9,
+        "screen_time_hours": 10.5,
+        "sleep_hours": 3.8,
+        "fitness_steps": 2247,
+        "tasks_completed": 1,
+        "cognitive_score": 38
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.9,
+        "screen_time_hours": 7.5,
+        "sleep_hours": 5.5,
+        "fitness_steps": 4621,
+        "tasks_completed": 3,
+        "cognitive_score": 55
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.8,
+        "screen_time_hours": 6.1,
+        "sleep_hours": 6.4,
+        "fitness_steps": 8476,
+        "tasks_completed": 7,
+        "cognitive_score": 88
+      }
+    ]
+  },
+  {
+    "id": "93a8a06a",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.9,
+        "screen_time_hours": 10.5,
+        "sleep_hours": 4.7,
+        "fitness_steps": 3466,
+        "tasks_completed": 3,
+        "cognitive_score": 48
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.9,
+        "screen_time_hours": 7.7,
+        "sleep_hours": 6.1,
+        "fitness_steps": 6095,
+        "tasks_completed": 5,
+        "cognitive_score": 60
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.0,
+        "screen_time_hours": 6.4,
+        "sleep_hours": 7.1,
+        "fitness_steps": 8537,
+        "tasks_completed": 9,
+        "cognitive_score": 94
+      }
+    ]
+  },
+  {
+    "id": "b1a3bce0",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.9,
+        "screen_time_hours": 9.8,
+        "sleep_hours": 4.0,
+        "fitness_steps": 2595,
+        "tasks_completed": 2,
+        "cognitive_score": 41
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.0,
+        "screen_time_hours": 7.3,
+        "sleep_hours": 5.2,
+        "fitness_steps": 5353,
+        "tasks_completed": 4,
+        "cognitive_score": 66
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 3.7,
+        "screen_time_hours": 6.2,
+        "sleep_hours": 6.5,
+        "fitness_steps": 7998,
+        "tasks_completed": 6,
+        "cognitive_score": 90
+      }
+    ]
+  },
+  {
+    "id": "10948f67",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.8,
+        "screen_time_hours": 11.3,
+        "sleep_hours": 5.1,
+        "fitness_steps": 1944,
+        "tasks_completed": 2,
+        "cognitive_score": 37
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.4,
+        "screen_time_hours": 8.3,
+        "sleep_hours": 6.2,
+        "fitness_steps": 4105,
+        "tasks_completed": 5,
+        "cognitive_score": 57
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.9,
+        "screen_time_hours": 7.0,
+        "sleep_hours": 7.0,
+        "fitness_steps": 6680,
+        "tasks_completed": 7,
+        "cognitive_score": 84
+      }
+    ]
+  },
+  {
+    "id": "3e2bf2c2",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.8,
+        "screen_time_hours": 10.6,
+        "sleep_hours": 4.8,
+        "fitness_steps": 2272,
+        "tasks_completed": 3,
+        "cognitive_score": 47
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.7,
+        "screen_time_hours": 7.8,
+        "sleep_hours": 6.0,
+        "fitness_steps": 4920,
+        "tasks_completed": 5,
+        "cognitive_score": 65
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.6,
+        "screen_time_hours": 6.1,
+        "sleep_hours": 7.0,
+        "fitness_steps": 7066,
+        "tasks_completed": 8,
+        "cognitive_score": 83
+      }
+    ]
+  },
+  {
+    "id": "2afda375",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.5,
+        "screen_time_hours": 7.6,
+        "sleep_hours": 3.6,
+        "fitness_steps": 3182,
+        "tasks_completed": 3,
+        "cognitive_score": 36
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 1.8,
+        "screen_time_hours": 5.9,
+        "sleep_hours": 5.5,
+        "fitness_steps": 5264,
+        "tasks_completed": 6,
+        "cognitive_score": 60
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.0,
+        "screen_time_hours": 4.8,
+        "sleep_hours": 6.9,
+        "fitness_steps": 8938,
+        "tasks_completed": 8,
+        "cognitive_score": 96
+      }
+    ]
+  },
+  {
+    "id": "3dc7cd0c",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.3,
+        "screen_time_hours": 8.0,
+        "sleep_hours": 4.8,
+        "fitness_steps": 3349,
+        "tasks_completed": 1,
+        "cognitive_score": 46
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.0,
+        "screen_time_hours": 6.3,
+        "sleep_hours": 6.3,
+        "fitness_steps": 6194,
+        "tasks_completed": 3,
+        "cognitive_score": 70
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.8,
+        "screen_time_hours": 5.2,
+        "sleep_hours": 7.0,
+        "fitness_steps": 9842,
+        "tasks_completed": 5,
+        "cognitive_score": 88
+      }
+    ]
+  },
+  {
+    "id": "e3e817da",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.9,
+        "screen_time_hours": 10.6,
+        "sleep_hours": 5.4,
+        "fitness_steps": 3022,
+        "tasks_completed": 2,
+        "cognitive_score": 35
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.1,
+        "screen_time_hours": 8.9,
+        "sleep_hours": 6.9,
+        "fitness_steps": 5191,
+        "tasks_completed": 5,
+        "cognitive_score": 63
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 3.7,
+        "screen_time_hours": 7.1,
+        "sleep_hours": 7.7,
+        "fitness_steps": 8242,
+        "tasks_completed": 7,
+        "cognitive_score": 90
+      }
+    ]
+  },
+  {
+    "id": "1bbb2b41",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.6,
+        "screen_time_hours": 7.6,
+        "sleep_hours": 5.1,
+        "fitness_steps": 1916,
+        "tasks_completed": 2,
+        "cognitive_score": 47
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 1.9,
+        "screen_time_hours": 5.2,
+        "sleep_hours": 6.7,
+        "fitness_steps": 4136,
+        "tasks_completed": 5,
+        "cognitive_score": 58
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.1,
+        "screen_time_hours": 3.3,
+        "sleep_hours": 7.9,
+        "fitness_steps": 6526,
+        "tasks_completed": 7,
+        "cognitive_score": 89
+      }
+    ]
+  },
+  {
+    "id": "65c05a3a",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.2,
+        "screen_time_hours": 11.0,
+        "sleep_hours": 4.4,
+        "fitness_steps": 2896,
+        "tasks_completed": 3,
+        "cognitive_score": 43
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.5,
+        "screen_time_hours": 8.9,
+        "sleep_hours": 5.5,
+        "fitness_steps": 5459,
+        "tasks_completed": 5,
+        "cognitive_score": 58
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.0,
+        "screen_time_hours": 6.9,
+        "sleep_hours": 6.5,
+        "fitness_steps": 8702,
+        "tasks_completed": 9,
+        "cognitive_score": 84
+      }
+    ]
+  },
+  {
+    "id": "e04b27fc",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.3,
+        "screen_time_hours": 9.3,
+        "sleep_hours": 4.4,
+        "fitness_steps": 1945,
+        "tasks_completed": 3,
+        "cognitive_score": 35
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.0,
+        "screen_time_hours": 6.3,
+        "sleep_hours": 5.7,
+        "fitness_steps": 4240,
+        "tasks_completed": 6,
+        "cognitive_score": 61
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.9,
+        "screen_time_hours": 4.8,
+        "sleep_hours": 7.0,
+        "fitness_steps": 7320,
+        "tasks_completed": 10,
+        "cognitive_score": 89
+      }
+    ]
+  },
+  {
+    "id": "1e4a9d16",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.8,
+        "screen_time_hours": 9.7,
+        "sleep_hours": 4.5,
+        "fitness_steps": 1865,
+        "tasks_completed": 3,
+        "cognitive_score": 41
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.5,
+        "screen_time_hours": 7.1,
+        "sleep_hours": 5.8,
+        "fitness_steps": 4599,
+        "tasks_completed": 5,
+        "cognitive_score": 66
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.9,
+        "screen_time_hours": 5.6,
+        "sleep_hours": 6.7,
+        "fitness_steps": 6677,
+        "tasks_completed": 9,
+        "cognitive_score": 82
+      }
+    ]
+  },
+  {
+    "id": "ffa0b290",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.8,
+        "screen_time_hours": 10.4,
+        "sleep_hours": 5.2,
+        "fitness_steps": 1675,
+        "tasks_completed": 1,
+        "cognitive_score": 39
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.6,
+        "screen_time_hours": 8.6,
+        "sleep_hours": 6.5,
+        "fitness_steps": 3778,
+        "tasks_completed": 3,
+        "cognitive_score": 59
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 6.0,
+        "screen_time_hours": 6.6,
+        "sleep_hours": 7.8,
+        "fitness_steps": 6314,
+        "tasks_completed": 6,
+        "cognitive_score": 96
+      }
+    ]
+  },
+  {
+    "id": "6941f475",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.8,
+        "screen_time_hours": 9.9,
+        "sleep_hours": 5.0,
+        "fitness_steps": 3297,
+        "tasks_completed": 2,
+        "cognitive_score": 44
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.7,
+        "screen_time_hours": 8.3,
+        "sleep_hours": 6.4,
+        "fitness_steps": 5668,
+        "tasks_completed": 4,
+        "cognitive_score": 70
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.2,
+        "screen_time_hours": 6.6,
+        "sleep_hours": 7.0,
+        "fitness_steps": 8368,
+        "tasks_completed": 8,
+        "cognitive_score": 91
+      }
+    ]
+  },
+  {
+    "id": "0d35d617",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.7,
+        "screen_time_hours": 8.3,
+        "sleep_hours": 4.6,
+        "fitness_steps": 2729,
+        "tasks_completed": 2,
+        "cognitive_score": 39
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 1.9,
+        "screen_time_hours": 6.2,
+        "sleep_hours": 5.8,
+        "fitness_steps": 4944,
+        "tasks_completed": 4,
+        "cognitive_score": 65
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.1,
+        "screen_time_hours": 4.8,
+        "sleep_hours": 7.0,
+        "fitness_steps": 8333,
+        "tasks_completed": 7,
+        "cognitive_score": 88
+      }
+    ]
+  },
+  {
+    "id": "0d100430",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.7,
+        "screen_time_hours": 9.9,
+        "sleep_hours": 4.0,
+        "fitness_steps": 2274,
+        "tasks_completed": 1,
+        "cognitive_score": 42
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.0,
+        "screen_time_hours": 7.6,
+        "sleep_hours": 5.5,
+        "fitness_steps": 5222,
+        "tasks_completed": 4,
+        "cognitive_score": 57
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.3,
+        "screen_time_hours": 6.6,
+        "sleep_hours": 6.9,
+        "fitness_steps": 9137,
+        "tasks_completed": 7,
+        "cognitive_score": 94
+      }
+    ]
+  },
+  {
+    "id": "87cd8995",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.5,
+        "screen_time_hours": 8.5,
+        "sleep_hours": 3.6,
+        "fitness_steps": 2141,
+        "tasks_completed": 2,
+        "cognitive_score": 35
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.6,
+        "screen_time_hours": 6.3,
+        "sleep_hours": 5.1,
+        "fitness_steps": 4228,
+        "tasks_completed": 5,
+        "cognitive_score": 70
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.1,
+        "screen_time_hours": 5.0,
+        "sleep_hours": 5.9,
+        "fitness_steps": 8203,
+        "tasks_completed": 7,
+        "cognitive_score": 78
+      }
+    ]
+  },
+  {
+    "id": "03400f76",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 0.9,
+        "screen_time_hours": 7.5,
+        "sleep_hours": 5.1,
+        "fitness_steps": 3043,
+        "tasks_completed": 1,
+        "cognitive_score": 47
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.1,
+        "screen_time_hours": 5.6,
+        "sleep_hours": 7.1,
+        "fitness_steps": 5878,
+        "tasks_completed": 4,
+        "cognitive_score": 55
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 3.7,
+        "screen_time_hours": 3.7,
+        "sleep_hours": 8.0,
+        "fitness_steps": 8221,
+        "tasks_completed": 7,
+        "cognitive_score": 84
+      }
+    ]
+  },
+  {
+    "id": "e3fcccdc",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.5,
+        "screen_time_hours": 11.7,
+        "sleep_hours": 5.0,
+        "fitness_steps": 1582,
+        "tasks_completed": 2,
+        "cognitive_score": 40
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.0,
+        "screen_time_hours": 9.3,
+        "sleep_hours": 6.8,
+        "fitness_steps": 4202,
+        "tasks_completed": 4,
+        "cognitive_score": 57
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.1,
+        "screen_time_hours": 7.9,
+        "sleep_hours": 8.2,
+        "fitness_steps": 6607,
+        "tasks_completed": 6,
+        "cognitive_score": 86
+      }
+    ]
+  },
+  {
+    "id": "27c4e991",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.3,
+        "screen_time_hours": 7.5,
+        "sleep_hours": 4.9,
+        "fitness_steps": 2797,
+        "tasks_completed": 1,
+        "cognitive_score": 40
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 2.5,
+        "screen_time_hours": 5.2,
+        "sleep_hours": 6.8,
+        "fitness_steps": 5079,
+        "tasks_completed": 3,
+        "cognitive_score": 67
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 4.2,
+        "screen_time_hours": 3.6,
+        "sleep_hours": 7.3,
+        "fitness_steps": 7347,
+        "tasks_completed": 5,
+        "cognitive_score": 92
+      }
+    ]
+  },
+  {
+    "id": "eb1b1096",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.6,
+        "screen_time_hours": 9.6,
+        "sleep_hours": 4.6,
+        "fitness_steps": 1570,
+        "tasks_completed": 2,
+        "cognitive_score": 39
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.2,
+        "screen_time_hours": 7.2,
+        "sleep_hours": 6.6,
+        "fitness_steps": 4064,
+        "tasks_completed": 5,
+        "cognitive_score": 57
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.1,
+        "screen_time_hours": 5.5,
+        "sleep_hours": 7.4,
+        "fitness_steps": 7934,
+        "tasks_completed": 9,
+        "cognitive_score": 95
+      }
+    ]
+  },
+  {
+    "id": "bf709400",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.8,
+        "screen_time_hours": 10.3,
+        "sleep_hours": 4.6,
+        "fitness_steps": 2270,
+        "tasks_completed": 3,
+        "cognitive_score": 48
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.1,
+        "screen_time_hours": 7.5,
+        "sleep_hours": 6.1,
+        "fitness_steps": 4980,
+        "tasks_completed": 5,
+        "cognitive_score": 62
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.3,
+        "screen_time_hours": 5.9,
+        "sleep_hours": 7.4,
+        "fitness_steps": 7241,
+        "tasks_completed": 8,
+        "cognitive_score": 89
+      }
+    ]
+  },
+  {
+    "id": "c52991b0",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.7,
+        "screen_time_hours": 10.0,
+        "sleep_hours": 4.5,
+        "fitness_steps": 2568,
+        "tasks_completed": 3,
+        "cognitive_score": 42
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.5,
+        "screen_time_hours": 7.2,
+        "sleep_hours": 6.2,
+        "fitness_steps": 5554,
+        "tasks_completed": 6,
+        "cognitive_score": 68
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.8,
+        "screen_time_hours": 5.6,
+        "sleep_hours": 7.3,
+        "fitness_steps": 8702,
+        "tasks_completed": 8,
+        "cognitive_score": 91
+      }
+    ]
+  },
+  {
+    "id": "f8cd7069",
+    "history": [
+      {
+        "day": 1,
+        "deep_work_hours": 1.6,
+        "screen_time_hours": 10.5,
+        "sleep_hours": 3.8,
+        "fitness_steps": 3447,
+        "tasks_completed": 2,
+        "cognitive_score": 35
+      },
+      {
+        "day": 2,
+        "deep_work_hours": 3.5,
+        "screen_time_hours": 8.8,
+        "sleep_hours": 5.2,
+        "fitness_steps": 6176,
+        "tasks_completed": 5,
+        "cognitive_score": 64
+      },
+      {
+        "day": 3,
+        "deep_work_hours": 5.5,
+        "screen_time_hours": 7.6,
+        "sleep_hours": 6.3,
+        "fitness_steps": 9022,
+        "tasks_completed": 9,
+        "cognitive_score": 91
+      }
+    ]
+  }
+]
