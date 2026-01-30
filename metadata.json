@@ -1,0 +1,8 @@
+{
+  "name": "Email of Dexter (Hack)",
+  "description": "A Solarpunk-themed cognitive energy management app tracking sleep, study, and focus to master your daily rhythm.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
